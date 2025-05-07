@@ -28,8 +28,8 @@ ecommerce_chatbot_solution/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce_chatbot_solution.git
-cd ecommerce_chatbot_solution
+git clone https://github.com/vjvashisth/ecommerce_LLM_chatbot.git
+cd ecommerce_LLM_chatbot
 ```
 
 ### 2. Install dependencies
